@@ -1,4 +1,3 @@
-layout_spectrum: 0.341251123463735
 typography_spectrum: 0.7671880025882274
 color:
   brandStrength: 0.3744568289257586
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.341251123463735
 name: responsible freedom
 title: for what it's worth
+description: really useful stuff
