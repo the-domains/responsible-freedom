@@ -1,17 +1,14 @@
 ---
-datePublished: '2016-08-31T23:38:51.680Z'
+datePublished: '2016-08-31T23:44:34.148Z'
 sourcePath: _posts/2016-08-31-barbra-keeps-it-coming.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T23:38:50.480Z'
+dateModified: '2016-08-31T23:44:33.204Z'
 title: ' Barbra Keeps it Coming'
 publisher: {}
-description: >-
-  Click, watch and enjoy. <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/vYAfLkIzZ4M" frameborder="0"
-  allowfullscreen></iframe>
+description: 'Click, watch and enjoy.'
 starred: false
 url: barbra-keeps-it-coming/index.html
 _type: Article
@@ -25,6 +22,6 @@ _type: Article
 
 ### Here is a recent interview with Barbra Streisand. At 74 she is still giving it her all!
 
-Click, watch and enjoy. [<iframe width="560" height="315" src="https://www.youtube.com/embed/vYAfLkIzZ4M" frameborder="0" allowfullscreen\></iframe\>][0]
+Click, watch and enjoy.
 
-[0]: http://<iframe width="560" height="315" src="https//www.youtube.com/embed/vYAfLkIzZ4M" frameborder="0" allowfullscreen></iframe> "Click Watch Enjoy"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vYAfLkIzZ4M" frameborder="0" allowfullscreen\></iframe\>
