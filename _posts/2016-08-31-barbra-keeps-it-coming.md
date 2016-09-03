@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T23:17:42.769Z'
+datePublished: '2016-08-31T23:19:40.165Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T23:15:06.151Z'
+dateModified: '2016-08-31T23:19:37.534Z'
 title: '         Barbra Keeps it Coming'
 publisher: {}
 description: 'Click, watch and enjoy.'
-starred: false
 sourcePath: _posts/2016-08-31-barbra-keeps-it-coming.md
-_type: Blurb
+hasPage: true
+starred: false
+url: barbra-keeps-it-coming/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b176524-113c-4458-ad74-ea394962d7d2.jpg)
