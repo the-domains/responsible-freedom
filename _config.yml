@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.341251123463735
 name: responsible freedom
+navigation:
+  - name: '         Barbra Keeps it Coming'
+    id: dea40909-b7ff-4852-9fba-f3f3529c6fbb
+    type: content
 title: for what it's worth
 description: really useful stuff
