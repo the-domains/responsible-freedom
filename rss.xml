@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[for what it's worth]]></title>
         <description><![CDATA[for what it's worth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/responsible-freedom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 06:29:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 22:53:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/responsible-freedom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rising dawn: Rolls-Royce debut handsome new soft-top.]]></title>
+            <description><![CDATA[<article><h1>Rising dawn: Rolls-Royce debut handsome new soft-top.</h1><p>The Rolls-Royce Dawn made its debut in an underground car park, just a stone's throw from Wallpaper's HQ. Granted, it was the car park beneath Rogers Stirk Harbour + Partners' award-winning Neo Bankside development, and the other bays were full of Ferraris, Maseratis and other exotic metal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e9722ec934a561a202db1ac3eff4119777420ed.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/lifestyle/rolls-royce-debut-their-handsome-new-soft-top</link>
+            <guid isPermaLink="false">929cde32-0ab1-4d0d-84b1-a73f6484d878</guid>
+            <pubDate>Wed, 31 Aug 2016 22:53:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Atmo Sfera Platterless Turntable Spins Vinyl in the Air]]></title>
             <description><![CDATA[<article><h1>Atmo Sfera Platterless Turntable Spins Vinyl in the Air</h1><p>Chicago's Gramovox already defied gravity with their vertical Floating Record Player, and now Italian start-up Audio Deva offers their own "upside-down" take on a turntable. It eschews the basic design that has "remained the same for about a century."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/830e11149967bece8ee73a18f0e9eb4f29bef90b.jpg"></article>]]></description>
