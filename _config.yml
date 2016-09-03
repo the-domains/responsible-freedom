@@ -19,5 +19,8 @@ navigation:
   - name: 'Rising dawn: Rolls-Royce'
     id: 929cde32-0ab1-4d0d-84b1-a73f6484d878
     type: content
+  - name: Platterless Turntable
+    id: de498d55-1d1a-45f1-ba6e-dc45d889c068
+    type: content
 title: for what it's worth
 description: really useful stuff
